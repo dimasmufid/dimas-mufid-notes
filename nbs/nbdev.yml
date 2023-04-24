@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dimas-mufid-notes"
+  site-url: "https://dimasmufid.github.io/dimas-mufid-notes"
+  description: "Before, it is just my lecture notes which I keep for my own. But probably it will be better if I share it to public, just in case it can also help you with your learning process."
+  repo-branch: main
+  repo-url: "https://github.com/dimasmufid/dimas-mufid-notes"
